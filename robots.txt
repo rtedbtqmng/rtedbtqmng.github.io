@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rtedbtqmng.github.io/sitemap.xml
